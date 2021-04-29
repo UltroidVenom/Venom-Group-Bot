@@ -196,17 +196,17 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="Add 𝙋𝙐𝙍𝙊𝘿𝙄𝙇 to your group",
+                            text="Add ʋɛռօʍ ɮօȶ to your group",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
                      [
                          InlineKeyboardButton(
                              text="Support Group",
-                             url=f"https://t.me/hellbot_official_chat"),
+                             url=f"https://t.me/CrackMonkeyChats"),
                          InlineKeyboardButton(
-                             text="📘 Logs",
-                             url="https://t.me/LaylaLogs")
+                             text="MASTER",
+                             url="https://t.me/R2K_VENOM")
                      ]]))
     else:
         update.effective_message.reply_text(
