@@ -202,10 +202,10 @@ def start(update: Update, context: CallbackContext):
                     ],
                      [
                          InlineKeyboardButton(
-                             text="Support Group",
+                             text="ֆʊքքօʀȶ ɢʀօʊք",
                              url=f"https://t.me/CrackMonkeyChats"),
                          InlineKeyboardButton(
-                             text="MASTER",
+                             text="ʍʏ ʍǟֆȶɛʀ",
                              url="https://t.me/R2K_VENOM")
                      ]]))
     else:
