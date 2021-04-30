@@ -187,4 +187,4 @@ For starters click on this button
 </details>  
 
 ## Credits
-The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
+CREDITS TO THE RESPECTIVE CREATOR ♨️
