@@ -1,5 +1,5 @@
 {
-      "name": "Layla Robot",
+      "name": "Venom Robot",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "LaylaRobot"
       ],   
-   "repository": "https://github.com/kaalmadhav/LaylaRobot.git",
+   "repository": "https://github.com/UltroidVenom/Venom-Group-Bot",
    "addons": [
       {
          "options": {
@@ -32,12 +32,12 @@
          "value": ""
       },
       "API_ID": {
-         "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
+         "description": "Get API_ID from my.telegram.org or go to @UseTGSBot, used for telethon based modules.",
          "required": true,
          "value": ""
       },
       "API_HASH": {
-         "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
+         "description": "Get API_HASH from my.telegram.org or go to @UseTGSBot, used for telethon based modules.",
          "required": true,
          "value": ""
       },    
@@ -53,12 +53,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "HEROGAMERS1"
+         "value": "R2K_VENOM"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "@Girls_and_Boys_Chatting"
+         "value": "CrackMonkey"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
